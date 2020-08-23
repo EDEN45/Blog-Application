@@ -1,0 +1,6 @@
+package global
+
+const (
+	mongoDbUri = "mongodb+srv://eden:<password>@cluster0.5cf8p.mongodb.net/<dbname>?retryWrites=true&w=majority"
+	mongoDbName = "blog-application"
+)
